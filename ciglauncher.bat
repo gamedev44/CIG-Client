@@ -47,7 +47,7 @@ echo *******************************************
 ping localhost -n 10 >nul
 
 echo Running CIG Launcher 
-start ""C:\Program Files\Roberts Space Industries\RSI Launcher\RSI Launcher.exe"" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\StarCitizen_Launcher.exe" +map DFM_Orison -server -log -nosteam -connect 26.63.38.182:8000
+start "C:\Program Files\Roberts Space Industries\RSI Launcher\RSI Launcher.exe" "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\StarCitizen_Launcher.exe" +map DFM_Orison -server -log -nosteam -connect 26.63.38.182:8000
 
 :logo_loop
 rem Check if both Star Citizen launcher and Star Citizen processes are still running during the 3-minute period
