@@ -7,4 +7,4 @@ CIG LAUCNHER BACKEND SERVER ALLOWS LAN AND WLAN (STILL WORKING ON BYPASSING ANTI
 ## [SC Localization Tools]("https://github.com/h0useRus/StarCitizen")
 
 
-#join my discord today for more awesome tools and games movies and more click to [Join Here Today]("https://discord.gg/Ed4f8CAX4w")
+# Join my discord today for more awesome tools and games movies and more click to [Join Here Today]("https://discord.gg/Ed4f8CAX4w")
