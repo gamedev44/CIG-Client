@@ -1,7 +1,32 @@
 @echo off
-title cig Launcher
+title CIG Launcher
+prompt RSI-Launch-GUI : 
 color 0f
-prompt RSI-Launch-GUI :   
+setlocal enabledelayedexpansion
+goto menu
+
+:menu
+cls
+echo  **********_CIG_LAUNCH_MENU_************* 
+echo  * 1.   Launch Game                     *
+echo  * 2.   Host/Connect to Multiplayer     *
+echo  * 3.   Exit Client                     *
+echo  ****************************************
+set /p choice=Enter your choice: 
+
+if "%choice%"=="1" (
+    start "" "C:\Program Files\Roberts Space Industries\StarCitizen\HOTFIX\Bin64\StarCitizen.exe"
+) elseif "%choice%"=="2" (
+    set /p targetIP=Enter target IP address: 
+    start "" "C:\Program Files\Roberts Space Industries\StarCitizen\HOTFIX\StarCitizen_Launcher.exe" %targetIP%
+) elseif "%choice%"=="3" (
+    exit
+) else (
+    echo Invalid choice. Please try again.
+    pause
+    goto menu
+)
+
 
 :main_loop
 cls
