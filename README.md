@@ -18,7 +18,7 @@ If you haven't already, download the RSI Launcher and Star Citizen base game usi
 Run the `ciglauncher.bat` file and wait for the game to load.
 
 ### Step 3: Select Hotfix
-In the game, navigate to the hotfix section as shown in the [Hotfix Reference Image](https://github.com/gamedev44/CIG-Client/blob/main/Hotfix%20Ref%20Image.png) and download the hotfix. Wait for the download to finish.
+In the game, navigate to the hotfix section as shown in the![Hotfix Reference Image](https://raw.githubusercontent.com/gamedev44/CIG-Client/main/Hotfix%20Ref%20Image.png)and download the hotfix. Wait for the download to finish.
 
 ### Step 4: Locate Your Hotfix Files
 The hotfix files will be located by default within `C:\Program Files\Roberts Space Industries`. Inside this folder, you should see a new folder called `StarCitizen`. Within the `StarCitizen` folder, there is another folder named `HOTFIX` containing two launchers:
