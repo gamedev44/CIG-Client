@@ -3,7 +3,7 @@
 
 CIG LAUNCHER BACKEND SERVER ALLOWS LAN AND WLAN 
 
-## Tools
+## Recommended Tools
 - [**LugHelper SC Optimizer**](https://github.com/starcitizen-lug/lug-helper/tree/main)
 - [**SC Localization Tools**](https://github.com/h0useRus/StarCitizen)
 
