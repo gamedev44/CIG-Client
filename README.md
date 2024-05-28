@@ -1,6 +1,7 @@
-# CIG_SERVER
+# CIG_SERVER 
+## hotfix Buildnum#:\_3.23.1 -9179013
 
-CIG LAUNCHER BACKEND SERVER ALLOWS LAN AND WLAN (STILL WORKING ON BYPASSING ANTICHEAT THOUGH!)
+CIG LAUNCHER BACKEND SERVER ALLOWS LAN AND WLAN 
 
 ## Tools
 - [**LugHelper SC Optimizer**](https://github.com/starcitizen-lug/lug-helper/tree/main)
