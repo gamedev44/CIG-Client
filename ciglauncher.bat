@@ -1,6 +1,7 @@
 @echo off
 title cig Launcher
 color 0f
+prompt RSI-Launch-GUI :   
 
 :main_loop
 cls
